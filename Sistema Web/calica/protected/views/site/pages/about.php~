@@ -1,0 +1,29 @@
+<?php
+/* @var $this SiteController */
+
+$this->pageTitle=Yii::app()->name . ' - About';
+$this->breadcrumbs=array(
+	'Acerca de',
+);
+?>
+<h1>Acerca del sistema</h1>
+
+<p>Este sistema fue desarrollado en conjunto con el Laboratorio de Instrumentación, Control y Automatización de la Universidad Nacional Experimental del Táchira, como proyecto de servicio comunitario por estudiantes de las carreras de Ingenieria en Informática y Electrónica para gestionar el control de acceso al laboratorio. </p>
+
+<p> 
+Participantes del Proyecto:
+<ul>
+	<li>Chaparro V. Jherson J. Ingenieria en Informática</li>
+	<li>Hernández A. Noel A. Ingenieria en Informática</li>
+	<li>Salas M. Lorena E. Ingenieria en Informática</li>
+	<li>Sanchez R. Maria A. Ingenieria en Informática</li>
+	<li>Javier Ingenieria en Electrónica</li>
+</ul>
+<br>
+<ul>
+	<li>Bonilla Carlos Ingenieria en Electrónica</li>
+	<li>Contreras C. Cesar Responsable del L.I.C.A.</li>
+	<li>Valero C. Maria A. Tutora, Departamento de Ingenieria en Informática</li>	
+</ul>
+</p>
+
